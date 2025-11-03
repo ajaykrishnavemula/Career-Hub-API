@@ -38,4 +38,3 @@ router.get('/search', searchMessages);
 
 export default router;
 
-// Made with Bob

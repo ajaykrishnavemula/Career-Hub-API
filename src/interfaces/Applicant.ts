@@ -140,4 +140,3 @@ export interface IJobApplication extends Document {
   updatedAt: Date;
 }
 
-// Made with Bob

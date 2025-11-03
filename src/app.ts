@@ -92,4 +92,3 @@ app.use(errorHandlerMiddleware);
 
 export default app;
 
-// Made with Bob

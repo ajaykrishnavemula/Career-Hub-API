@@ -19,4 +19,3 @@ router.get('/recommendations/candidates/:jobId', authenticateUser, authorizeRole
 
 export default router;
 
-// Made with Bob

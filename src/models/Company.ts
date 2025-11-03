@@ -272,4 +272,3 @@ CompanySchema.methods.calculateAverageRating = function () {
 
 export default mongoose.model<ICompany>('Company', CompanySchema);
 
-// Made with Bob

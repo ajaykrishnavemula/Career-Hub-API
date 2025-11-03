@@ -38,4 +38,3 @@ export interface IConversation {
   updatedAt: Date;
 }
 
-// Made with Bob

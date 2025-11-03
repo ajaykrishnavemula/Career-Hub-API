@@ -202,4 +202,3 @@ JobSchema.index({
 
 export default mongoose.model<IJob>('Job', JobSchema);
 
-// Made with Bob

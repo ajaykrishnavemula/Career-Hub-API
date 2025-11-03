@@ -19,4 +19,3 @@ export {
   InternalServerError,
 };
 
-// Made with Bob

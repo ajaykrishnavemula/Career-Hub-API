@@ -60,4 +60,3 @@ export interface IJob extends Document {
   updatedAt: Date;
 }
 
-// Made with Bob

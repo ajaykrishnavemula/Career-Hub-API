@@ -29,4 +29,3 @@ export interface IInterview extends mongoose.Document {
   updatedAt: Date;
 }
 
-// Made with Bob

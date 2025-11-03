@@ -368,4 +368,3 @@ export const getJobStats = asyncWrapper(async (req: Request, res: Response) => {
   });
 });
 
-// Made with Bob

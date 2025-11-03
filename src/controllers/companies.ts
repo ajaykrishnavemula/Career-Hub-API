@@ -467,4 +467,3 @@ export const getCompanyReviews = asyncWrapper(async (req: Request, res: Response
   });
 });
 
-// Made with Bob

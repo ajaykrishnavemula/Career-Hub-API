@@ -422,4 +422,3 @@ class AnalyticsService {
 
 export default new AnalyticsService();
 
-// Made with Bob

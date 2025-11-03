@@ -87,4 +87,3 @@ router.patch('/:id/archive', authenticateUser, archiveJob);
 
 export default router;
 
-// Made with Bob

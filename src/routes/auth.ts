@@ -55,4 +55,3 @@ router.post('/logout', authenticateUser, logout);
 
 export default router;
 
-// Made with Bob

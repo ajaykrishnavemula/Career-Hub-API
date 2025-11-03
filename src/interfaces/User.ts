@@ -49,4 +49,3 @@ export interface UserModel extends Document, IUserMethods {
   lockUntil?: Date;
 }
 
-// Made with Bob

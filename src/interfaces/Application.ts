@@ -28,4 +28,3 @@ export interface IApplication extends mongoose.Document {
   updatedAt: Date;
 }
 
-// Made with Bob

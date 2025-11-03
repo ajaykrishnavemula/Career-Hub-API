@@ -223,4 +223,3 @@ export const searchMessages = asyncWrapper(async (req: Request, res: Response) =
   });
 });
 
-// Made with Bob

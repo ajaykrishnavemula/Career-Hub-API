@@ -69,4 +69,3 @@ export interface ICompany extends Document {
   updatedAt: Date;
 }
 
-// Made with Bob

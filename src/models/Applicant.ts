@@ -455,4 +455,3 @@ export const JobApplication = mongoose.model<IJobApplication>(
   JobApplicationSchema
 );
 
-// Made with Bob

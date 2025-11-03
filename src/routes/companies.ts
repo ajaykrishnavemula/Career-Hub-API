@@ -87,4 +87,3 @@ router.get('/:id/reviews', getCompanyReviews);
 
 export default router;
 
-// Made with Bob

@@ -41,4 +41,3 @@ router.get('/jobs/:jobId/stats', authenticateUser, getJobApplicationStats);
 
 export default router;
 
-// Made with Bob

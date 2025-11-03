@@ -665,4 +665,3 @@ class ElasticsearchService {
 
 export default new ElasticsearchService();
 
-// Made with Bob

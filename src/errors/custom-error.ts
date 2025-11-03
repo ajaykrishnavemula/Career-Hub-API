@@ -53,4 +53,3 @@ export class InternalServerError extends CustomAPIError {
 
 export default CustomAPIError;
 
-// Made with Bob

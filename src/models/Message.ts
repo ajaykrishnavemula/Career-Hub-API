@@ -169,4 +169,3 @@ interface MessageModel extends mongoose.Model<IMessage> {
 
 export default mongoose.model<IMessage, MessageModel>('Message', MessageSchema);
 
-// Made with Bob

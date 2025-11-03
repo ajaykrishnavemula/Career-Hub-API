@@ -30,4 +30,3 @@ router.get('/applicants', authorizeRoles(['admin']), getApplicantAnalytics);
 
 export default router;
 
-// Made with Bob

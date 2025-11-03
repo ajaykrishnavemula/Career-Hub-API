@@ -40,4 +40,3 @@ const authLimiter = rateLimit({
 export { rateLimiter, authLimiter };
 export default rateLimiter;
 
-// Made with Bob

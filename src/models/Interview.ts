@@ -104,4 +104,3 @@ InterviewSchema.index({ 'interviewers.userId': 1 });
 
 export default mongoose.model<IInterview>('Interview', InterviewSchema);
 
-// Made with Bob

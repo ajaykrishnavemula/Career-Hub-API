@@ -105,4 +105,3 @@ ApplicationSchema.index({
 
 export default mongoose.model<IApplication>('Application', ApplicationSchema);
 
-// Made with Bob

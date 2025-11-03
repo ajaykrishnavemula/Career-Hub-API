@@ -108,4 +108,3 @@ const config: Config = {
 
 export default config;
 
-// Made with Bob

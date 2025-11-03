@@ -69,4 +69,3 @@ const errorHandlerMiddleware = (
 
 export default errorHandlerMiddleware;
 
-// Made with Bob
