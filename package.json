@@ -1,7 +1,7 @@
 {
-  "name": "careerhub-api",
+  "name": "career-hub-api",
   "version": "1.0.0",
-  "description": "Advanced Career Hub API with TypeScript - Job posting and applicant tracking system",
+  "description": "Career-Hub-API - Advanced Career Hub API with TypeScript - Job posting and applicant tracking system",
   "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
