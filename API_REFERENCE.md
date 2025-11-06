@@ -1,4 +1,4 @@
-# Career-Hub-API - Complete API Reference
+# Career-Hub - Complete API Reference
 
 > **Comprehensive API documentation for the Job Portal & Career Management System**
 
